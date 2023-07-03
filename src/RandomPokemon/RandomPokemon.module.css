@@ -1,0 +1,12 @@
+.container {
+  margin-top: 50px;
+  max-width: 850px;
+  text-align: center;
+  font-family: sans-serif;
+}
+
+.container img {
+  margin: 0 auto;
+  width: 100%;
+  max-width: 300px;
+}
